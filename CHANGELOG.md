@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-11)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`61e0c07`](https://github.com/stdlib-js/stdlib/commit/61e0c078903198eb07fe30301f14c3180186f5c9) - **bench:** use string interpolation in `stats/base/ndarray/nanmeanors` [(#10163)](https://github.com/stdlib-js/stdlib/pull/10163) _(by Om-A-osc)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Om-A-osc
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
